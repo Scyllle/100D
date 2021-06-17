@@ -2,7 +2,7 @@
 
 **Projeto: Viego (2D)**
 
-Continuando a desenhar a Isolde. 
+Continuando a desenhar a Isolde. Primeiro mexi na sirueta, não estava com curvas femininas, oque estava estranho. Em seguida fui fazer a mão, pelo menos a base para depois eu ir evoluindo e fazendo-a direito.  
 
 
 -Vídeos do dia- 
