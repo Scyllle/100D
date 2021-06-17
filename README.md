@@ -1,6 +1,6 @@
 **Dia 0: 16 de junho, 2021**
 
-**Projeto: Viego (2D)**
+_Projeto: Viego (2D)_
 
 Continuando a desenhar a Isolde. Primeiro mexi na sirueta, não estava com curvas femininas, oque estava estranho. Em seguida fui fazer a mão, pelo menos a base para depois eu ir evoluindo e fazendo-a direito.  Preciso aprender a desenhar cabelo, não apenas uma coisa física junta, como uma pedra, mas aprender a ir o construindo aos poucos, fio por fio, uma coisa mais viva e separada. 
 
