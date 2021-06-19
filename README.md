@@ -13,3 +13,10 @@ O Rioter diz que demorou no mínimo 80 horas, observa-se isso no início quando 
 Observa-se também muito a utilização da grey-scale, desenhar e pintar com o plano de fundo em cinza, também muita atenção em value(cinza-cor) e saturação(claro-escuro). Line em splash artes são quase que ausentes, tendo o mínimo possível, pintadas para a cor geral ou tornam-se o desenho?  
  
 
+
+
+**Dia 1: 17 de junho, 2021** 
+
+_Projeto: Viego (2D)_
+
+Estudando a como fazer a mão direito, estruturada, assim como foi ensinado e anotado do curso. Dedo separado em 3 partes. É um bom início para começar a fazer direito, embora agora não vá visualmente ficar a melhor coisa, mas o importante é começar a entender como funciona. Também prestar atenção a como os lados funcionam, o lado do mindinho e o lado do dedão, mas também, mesmo que mais fácil, entender os dedos em si, os tamanhos. 
