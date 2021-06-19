@@ -24,3 +24,5 @@ _Projeto: Viego (2D)_
 Estudando a como fazer a mão direito, estruturada, assim como foi ensinado e anotado do curso. Dedo separado em 3 partes. É um bom início para começar a fazer direito, embora agora não vá visualmente ficar a melhor coisa, mas o importante é começar a entender como funciona. Também prestar atenção a como os lados funcionam, o lado do mindinho e o lado do dedão, mas também, mesmo que mais fácil, entender os dedos em si, os tamanhos. Como sou iniciante, fazer algo sem base para ver é burrice, até profissionais usam referências, mas já estou fazendo, então continuarei. Lábios ainda continuam sendo um mistério, porém com algumas tentativas consigo um que me agrada até. 
 
 Nota: Mão é difícil pra caralho. 
+
+Ainda falta dar uma geral na espada do Viego, e também nas mãos do mesmo. A Isolde acredito estar 90% pronta, não está essas coisas, porém não faz sentido ficar enrolando e re fazendo demais, é só um trabalho pessoal. 
