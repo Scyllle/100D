@@ -38,8 +38,8 @@ Hoje tratei de fazer a espada do Viego, fiz detalhes novos e tentei fazer ela me
 
 
 
-Dia 4: 20 de junho, 2021
+**Dia 4: 20 de junho, 2021**
 
-Projeto: Viego (2D)
+_Projeto: Viego (2D)_
 
 Deu vontade de ajeitar os olhos para ficarem mais vivos, ao mesmo tempo que comecei a lineart do viego, começando pela cabeça (coroa, rosto e cabelo). Line art com o pincel báisoc duro e de tamanho 6. Me pergunto se a pressão da caneta ajuda ou atrapalha, já que fica com irregularidades, porém ao meu ver no momento, ajuda.
