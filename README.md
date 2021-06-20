@@ -11,13 +11,15 @@ Continuando a desenhar a Isolde. Primeiro mexi na sirueta, não estava com curva
 
 O Rioter diz que demorou no mínimo 80 horas, observa-se isso no início quando ele refaz a line art muitas vezes, sempre ajeitando uma coisa nova, porém 70% do vídeo é o processo de pintura, muitas coisas que por enquanto não entendo oque ele faz, mas o importante é: Os pequenos detalhes são os importantes, os mínimos toques de cores, sombras e luz. 
 Observa-se também muito a utilização da grey-scale, desenhar e pintar com o plano de fundo em cinza, também muita atenção em value(cinza-cor) e saturação(claro-escuro). Line em splash artes são quase que ausentes, tendo o mínimo possível, pintadas para a cor geral ou tornam-se o desenho?  
+
+
  
 
 
 
 
 
-**Dia 1: 17 de junho, 2021** 
+**Dia 1: 18 de junho, 2021** 
 
 _Projeto: Viego (2D)_
 
@@ -26,3 +28,10 @@ Estudando a como fazer a mão direito, estruturada, assim como foi ensinado e an
 Nota: Mão é difícil pra caralho. 
 
 Ainda falta dar uma geral na espada do Viego, e também nas mãos do mesmo. A Isolde acredito estar 90% pronta, não está essas coisas, porém não faz sentido ficar enrolando e re fazendo demais, é só um trabalho pessoal. 
+
+
+**Dia 3: 19 de junho, 2021** 
+
+_Projeto: Viego (2D)_
+
+Hoje tratei de fazer a espada do Viego, fiz detalhes novos e tentei fazer ela meio única, quem sabe depois eu mexa mais um pouco. Também tirei um tempo para fazer a névoa, no início ia apenas usar duas cores, mas depois deu vontade de mexer com mais, fazer mais detalhada, umas 3 versões diferentes de cada cor (das duas)
