@@ -42,4 +42,5 @@ Hoje tratei de fazer a espada do Viego, fiz detalhes novos e tentei fazer ela me
 
 _Projeto: Viego (2D)_
 
-Deu vontade de ajeitar os olhos para ficarem mais vivos, ao mesmo tempo que comecei a lineart do viego, começando pela cabeça (coroa, rosto e cabelo). Line art com o pincel báisoc duro e de tamanho 6. Me pergunto se a pressão da caneta ajuda ou atrapalha, já que fica com irregularidades, porém ao meu ver no momento, ajuda.
+Deu vontade de ajeitar os olhos para ficarem mais vivos, ao mesmo tempo que comecei a lineart do viego, começando pela cabeça (coroa, rosto e cabelo). Line art com o pincel báisoc duro e de tamanho 6. Me pergunto se a pressão da caneta ajuda ou atrapalha, já que fica com irregularidades, porém ao meu ver no momento, ajuda. 
+Não propositalmente mas acabei fazendo toda a line art do Viego, exceto as mãos, mas de resto eu fiz. Tirei um print das cores melhores da névoa, então depois irei usar as melhores cores, para ficar igual, embora eu goste da versão atual. Depois tenho que acabar de pensar no que farei de fundo. 
