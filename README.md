@@ -89,6 +89,7 @@ _Projeto: Viego (2D)_
  
  
         Remaking Irelia - Behind the Scenes
+        Creative Collaboration: Making League of Legends Champions
         
         
-É engraçado ver como um rework ou campeão novo é todo um processo bem demorado, leva meses, vários testes de skills e visual, envolvendo toda uma equipe grande, e também mais tarde, uma equipe de players para testar as skills e dar sua opinião. 
+É engraçado ver como um rework ou campeão novo é todo um processo bem demorado, leva meses, vários testes de skills e visual, envolvendo toda uma equipe grande, e também mais tarde, uma equipe de players para testar as skills e dar sua opinião. Criar campeões ou skins vai bem mais que visual, eles analisam e estudam tudo como um todo, toda a história de vida, personalidade, tudo isso é bastante discutido, pensado, testado, botado para fora do papel e cabeça, mas não de uma forma definitiva, isso é character designe em sua pura forma. 
