@@ -55,3 +55,24 @@ _Projeto: Viego (2D)_
 Hoje quero pintar o Viego um pouco, parece ser divertido, mas ao mesmo tempo tenho que ter noção de gastar o mesmo ou mais tempo que gastei desenhando tudo, preciso pensar nos mínimos detalhes, desde literalmente detalhes, até na harmonia das cores, embora que eu já tenha mais ou menos a palheta que eu vá ter que usar, já que já é um personagem pronto. Ter que também trabalhar nas mãos do Viego, de novo, sendo uma dor de cabeça, um dia terei que separar uns dias para trabalhar apenas com mãos, é extremamente necessário mas da preguiça só de pensar. 
 
 Comecei a pintar. Primeiro lembrando(lendo onde anotei) de colocar a camada cinza, para ficar mais fácil e melhor de enxergar as cores, e a camada preta para botar em cima quando for para comparar os values das cores. Minha primeira dificuldade foi que, a cor do cabelo é branca, e a da pele também, logo, foi um pouco desafio procurar um modo que ambas as cores fossem diferentes mas ao mesmo tempo sendo Branca. Percebi que algumas artes do viego seus olhos são verde e o fundo preto, mas também há algumas que é verde, mas com o fundo um verde menos claro, distinto, decidi adotar a segunda opção, dá um ar mais ''humano'' entre muitas aspas. 
+
+
+
+**Dia 6: 22 de junho, 2021**
+
+_Projeto: Viego (2D)_
+
+
+-Vídeos do dia- 
+
+         Painting project Sylas      
+         
+         
+ Liquify: Ferramenta interessante que já vi em vários vídeos de painting splash arts. Filtrar > Dissolver. 
+ 
+ 
+ 
+        How League Of Legends Champions Are Illustrated    
+        
+        
+ Um video de um rioter falando do seu processo de ilustrar um campeão. 1. Visualizar o campeão, sua aurea, personalidade e motivações, para então fazer sua primeira forma, sua pose, determinada apartir desses pontos. Ele desenha usando uma mesa normal, oque é curioso, mais tarde ele explica o porquê. 
