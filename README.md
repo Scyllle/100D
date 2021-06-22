@@ -75,4 +75,4 @@ _Projeto: Viego (2D)_
         How League Of Legends Champions Are Illustrated    
         
         
- Um video de um rioter falando do seu processo de ilustrar um campeão. 1. Visualizar o campeão, sua aurea, personalidade e motivações, para então fazer sua primeira forma, sua pose, determinada apartir desses pontos. Ele desenha usando uma mesa normal, oque é curioso, mais tarde ele explica o porquê. 
+ Um video de um rioter falando do seu processo de ilustrar um campeão. 1- Visualizar o campeão, sua aurea, personalidade e motivações, para então fazer sua primeira forma, sua pose, determinada apartir desses pontos. Ele desenha usando uma mesa normal, oque é curioso, mais tarde ele explica o porquê. 2- Background, não precisa ser uau, mas precisa ser algo que suporte o personagem, que diga uma história. 3- Luz também é bem importante, também prestando atenção sobre ela ajudar na aurea do personagem. 
