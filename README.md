@@ -71,13 +71,15 @@ _Projeto: Viego (2D)_
  Liquify: Ferramenta interessante que já vi em vários vídeos de painting splash arts. Filtrar > Dissolver. 
  É complicado ver videos desse tipo porque são geralmente 1 hora e meia ou até 2 horas, isso sendo bem acelerado, ou seja, é um processo extremamente complicado e demorado, envolvendo MUITA coisa que ainda não entendo, então vou me concentrar a ir entendendo em etapas. 
  
-*Pensamento e criação da idéia/pose 
-*Desenhar a idéia 
-*Line art 
-*Pintura inicial greyscale 
-*Pintura final
-*Efeitos, muitos efeitos e pintura
+* Pensamento e criação da idéia/pose 
+* Desenhar a idéia 
+* Line art 
+* Pintura inicial greyscale 
+* Pintura final
+* Efeitos, muitos efeitos e pintura
  
+ 
+ Pelo visto o que mais será dificil de entender será a pintura inicial, mas o mais difícil de aprender e executar será a parte de efeitos, pois se nos videos, essa parte demora mais de 1 hora, imagina em tempo real, isso na execução, imagina o processo para entender e aprender. 
  
  
         How League Of Legends Champions Are Illustrated    
