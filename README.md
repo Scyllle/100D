@@ -69,6 +69,14 @@ _Projeto: Viego (2D)_
          
          
  Liquify: Ferramenta interessante que já vi em vários vídeos de painting splash arts. Filtrar > Dissolver. 
+ É complicado ver videos desse tipo porque são geralmente 1 hora e meia ou até 2 horas, isso sendo bem acelerado, ou seja, é um processo extremamente complicado e demorado, envolvendo MUITA coisa que ainda não entendo, então vou me concentrar a ir entendendo em etapas. 
+ 
+*Pensamento e criação da idéia/pose 
+*Desenhar a idéia 
+*Line art 
+*Pintura inicial greyscale 
+*Pintura final
+*Efeitos, muitos efeitos e pintura
  
  
  
@@ -76,3 +84,9 @@ _Projeto: Viego (2D)_
         
         
  Um video de um rioter falando do seu processo de ilustrar um campeão. 1- Visualizar o campeão, sua aurea, personalidade e motivações, para então fazer sua primeira forma, sua pose, determinada apartir desses pontos. Ele desenha usando uma mesa normal, oque é curioso, mais tarde ele explica o porquê. 2- Background, não precisa ser uau, mas precisa ser algo que suporte o personagem, que diga uma história. 3- Luz também é bem importante, também prestando atenção sobre ela ajudar na aurea do personagem. Ele usa uma ferramenta chamada Blur, que dá um desfoque em toda imagem, e depois ele vai apagando onde ele não quer esse efeito, assim ainda deixando areas desfocadas para dar um contraste nas que não estão.  Por ultimo na arte, ele brinca com as cores, procurando efeitos que o agradem, claro que ainda com a aura em mente. 
+ 
+ 
+        Remaking Irelia - Behind the Scenes
+        
+        
+É engraçado ver como um rework ou campeão novo é todo um processo bem demorado, leva meses, vários testes de skills e visual, envolvendo toda uma equipe grande, e também mais tarde, uma equipe de players para testar as skills e dar sua opinião. 
