@@ -101,3 +101,17 @@ _Projeto: Viego (2D)_
 _Projeto: Viego (2D)_
 
 Pintei um pouco, tentando detalhar como eu sei. Preciso re-ver algum video de Painting, prestar a máxima atenção e detalhes, e então imediatamente começar a treinar o estilo, estudar. Não estou ruim, mas também não estou perto do caminho que desejo. 
+
+
+
+
+**Dia 8: 24 de junho, 2021**
+
+_Projeto: Viego (2D)_
+
+
+Como eu disse, para melhor entender o processo de ilustração em estilo splash Art, preciso separar em etapas, e ir entendendo cada uma aos poucos, em vez de tentar entender todas de uma vez. É preciso estudar, ver e tentar copiar, ao menos no ínicio.
+
+* Pensamento da idéia 
+
+Essa é a mais simples mas não quer dizer que seja fácil, é necessário entender bem oque quer fazer, a ideia, o personagem, tudo precisa ser para ele, toda a representação, como um rioter disse sobre Os kindred *não faz sentido os fazer fazendo uma pose provocativa ou dando um ataque, pois eles são a morte, a morte não provoca, não vai com fúria, A morte apenas espera sua hora chegar, a hora de o levar com ela.* Então, é preciso realmente pensar em tudo, toda uma estrutura, toda a imagem são pilares que sustentam o personagem, sua personalidade e presença, não é apenas o desenhar da forma que achar mais foda ou bonito. 
