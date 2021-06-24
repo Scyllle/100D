@@ -93,3 +93,11 @@ _Projeto: Viego (2D)_
         
         
 É engraçado ver como um rework ou campeão novo é todo um processo bem demorado, leva meses, vários testes de skills e visual, envolvendo toda uma equipe grande, e também mais tarde, uma equipe de players para testar as skills e dar sua opinião. Criar campeões ou skins vai bem mais que visual, eles analisam e estudam tudo como um todo, toda a história de vida, personalidade, tudo isso é bastante discutido, pensado, testado, botado para fora do papel e cabeça, mas não de uma forma definitiva, isso é character designe em sua pura forma, por isso vejo como é importante ver videos assim, e ao mesmo tempo são bastante divertidos e legais, uma forma mais casual de estudar. 
+
+
+
+**Dia 7: 23 de junho, 2021**
+
+_Projeto: Viego (2D)_
+
+Pintei um pouco, tentando detalhar como eu sei. Preciso re-ver algum video de Painting, prestar a máxima atenção e detalhes, e então imediatamente começar a treinar o estilo, estudar. Não estou ruim, mas também não estou perto do caminho que desejo. 
