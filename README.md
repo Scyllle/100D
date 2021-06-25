@@ -115,3 +115,18 @@ Como eu disse, para melhor entender o processo de ilustração em estilo splash 
 * Pensamento da idéia 
 
 Essa é a mais simples mas não quer dizer que seja o mais fácil, é necessário entender bem oque quer fazer, a ideia, o personagem, tudo precisa ser para ele, toda a representação, como um rioter disse sobre Os kindred: *não faz sentido os fazer fazendo uma pose provocativa ou dando um ataque, pois eles são a morte, a morte não provoca, não vai com fúria, A morte apenas espera sua hora chegar, a hora de o levar com ela.* Então, é preciso realmente pensar em tudo, toda uma estrutura, toda a imagem são pilares que sustentam o personagem, sua personalidade e presença, não é apenas o desenhar da forma que achar mais foda ou bonito. 
+     
+      Art Demonstration by League of Legends Artists
+
+
+**Dia 9: 25 de junho, 2021**
+
+_Projeto: Viego (2D)_
+
+
+Resolvi ligar o MODO SÉRIO e analisar bem algum video de painting, para conseguir entender o segundo processo e então tentar recriá-lo. 
+
+1. O fundo é cinza (676668). Isso não deve me ajudar em nada, mas acho que é uma coisa que ajuda na percepção de cores e fica mais suave de olhar para tela(?) Igual as redes sociais terem o modo escuro. 
+2. Nisso, ele vai desenhando normal o campeão e tal tal, e então o pinta de cinza mais escuro (4b4a4c)
+3. Depois, ele escurece(sombra) e clarea mais(luz), conforme o desenho pede. 
+4. Pinta de branco (ou quase é) as partes de mais luz. As cores mais claras e highlights ele pinta por cima do greyscale
