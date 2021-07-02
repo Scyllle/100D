@@ -130,3 +130,13 @@ Resolvi ligar o MODO SÉRIO e analisar bem algum video de painting, para consegu
 2. Nisso, ele vai desenhando normal o campeão e tal tal, e então o pinta de cinza mais escuro (4b4a4c)
 3. Depois, ele escurece(sombra) e clarea mais(luz), conforme o desenho pede. 
 4. Pinta de branco (ou quase é) as partes de mais luz. As cores mais claras e highlights ele pinta por cima do greyscale
+
+
+
+**Dia 16: 03 de julho, 2021**
+
+_Projeto: Viego (2D)_
+
+Bom, fiquei um tempinho sem escrever, mas porém entretanto todavia, não quer dizer que fiquei sem desenhar. 
+
+Peguei as brushs que o rioter disponibiliza grátis e comecei as testando, pintar com elas é bem melhor que com a que eu estava testando, o efeito é bem mais realista e bonito, e não é ''duro''. Pintei um pouco do Viego, rosto, cabelo, neblina, o resultado porém ainda não me agrada, mas já é um bom inicio, comparado ao que estava antes, está bem melhor. 
